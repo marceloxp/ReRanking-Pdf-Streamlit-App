@@ -2,11 +2,14 @@
 
 ReRanking PDF Streamlit App using Open Source Models and Flash Rank library. This is helpful to solve Lost in the Middle issue of LLMs.
 
-🚀 This application is an adaptation based on the initial work of AIAnytime, available at AIAnytime/ReRanking-Streamlit-App.
+## About
 
-🌟 The structure of this project was built from the ideas presented in this source code. I appreciate AIAnytime for making their work available as a source of inspiration.
+- 🚀 This application is an adaptation based on the initial work of [AI Anytime](https://github.com/AIAnytime)
+- This project was built from the ideas presented in original source code. I appreciate [AI Anytime](https://github.com/AIAnytime) for making their work available as a source of inspiration.
+- 🔗 [This Project](https://github.com/marceloxp/ReRanking-Pdf-Streamlit-App)
+- 🔗 [AI Anytime Original Project](https://github.com/AIAnytime/ReRanking-Streamlit-App)
 
-# Install and Run
+## Install and Run
 
 ```sh
 python3 -m venv rerankpdf
