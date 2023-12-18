@@ -8,6 +8,7 @@ ReRanking PDF Streamlit App using Open Source Models and Flash Rank library. Thi
 - This project was built from the ideas presented in original source code. I appreciate [AI Anytime](https://github.com/AIAnytime) for making their work available as a source of inspiration.
 - 🔗 [This Project](https://github.com/marceloxp/ReRanking-Pdf-Streamlit-App)
 - 🔗 [AI Anytime Original Project](https://github.com/AIAnytime/ReRanking-Streamlit-App)
+- 🎞️ [Original YouTube Video](https://www.youtube.com/watch?v=fUIeMuRtQr8)
 
 ## Install and Run
 
